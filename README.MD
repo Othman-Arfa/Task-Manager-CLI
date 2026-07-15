@@ -60,7 +60,7 @@ This project is the **culmination of my JavaScript learning** — and it works! 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/task-manager-cli.git
+git clone https://github.com/othman-arfa/task-manager-cli.git
 cd task-manager-cli
 ```
 
